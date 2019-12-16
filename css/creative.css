@@ -153,13 +153,13 @@ sup {
 }
 
 a {
-  color: #f4623a;
+  color: #047abc;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #d6370c;
+  color: #016298;
   text-decoration: underline;
 }
 
@@ -9603,11 +9603,11 @@ hr.light {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #f4623a;
+  color: #047abc;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #047abc !important;
 }
 
 @media (min-width: 992px) {
